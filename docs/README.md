@@ -1,3 +1,1 @@
-# Wilcox.sh
-
-coming soon
+<p align="center"><img src="images/wilcox.png" alt="wilcox Logo"/></p>
